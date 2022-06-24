@@ -1,7 +1,9 @@
-# Life Chart
+# Chart
 
-DataViz solution for the LifeSpan family of products
+![Chart](https://github.com/Yrkki/cv-generator-life-logo/blob/master/favicon/cv-generator-life-chart/favicon/favicon.ico?raw=true)
+
+Data visualization, analytics, monitoring and metrics for the LifeSpan℠ ecosystem
 
 ---
 
-© 1984 – 2021 [Marinov](http://marinov.ml "Marinov"). All rights reserved
+© 2018 [Marinov](http://marinov.link "Marinov"). All rights reserved.
